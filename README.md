@@ -1,5 +1,6 @@
 # guide_to_scientific_computing
-c++ 
+
+Random code bits as I learn how to code
 
 
-Source code for problems and exercises from the book. 
+ 
