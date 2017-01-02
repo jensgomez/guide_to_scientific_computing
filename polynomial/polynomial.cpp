@@ -51,8 +51,6 @@ int main()
 	poly p1(powp1, coefp1);
 	double x0 = 4 * atan(1.0);
 	std::cout << "Value of p(" << x0 << ") = " << p1.value(x0) << std::endl;	
-	
-	
-    return 0;
+	return 0;
 }
 
