@@ -1,7 +1,7 @@
 // polynomial.cpp : Defines the entry point for the console application.
 //
 
-#include "stdafx.h"
+#include "stdafx.h"   // MS Visual Studio header. Don't need if this is compiled on a non-VS compiler
 #include <cmath>
 #include <iostream>
 
